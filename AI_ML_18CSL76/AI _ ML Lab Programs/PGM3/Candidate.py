@@ -97,20 +97,3 @@ def specialize_G(x, domains, G, S):
                                       for g1 in G if h != g1])])
     return G
 candidate_elimination(examples)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
